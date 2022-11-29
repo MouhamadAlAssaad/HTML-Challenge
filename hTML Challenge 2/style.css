@@ -1,0 +1,19 @@
+
+body{
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    background:linear-gradient(50deg,#0234,#026597) ;
+}
+
+*{
+    font-size: larger;
+    text-align: center;
+}
+.image{
+    width: 500px;
+}
+
+h1{
+    font-size: 100px;
+}
